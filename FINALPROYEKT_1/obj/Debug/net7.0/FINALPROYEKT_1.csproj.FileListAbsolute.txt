@@ -1,0 +1,15 @@
+C:\Users\Quliy_cy96\source\repos\FINALPROYEKT_1\FINALPROYEKT_1\bin\Debug\net7.0\FINALPROYEKT_1.exe
+C:\Users\Quliy_cy96\source\repos\FINALPROYEKT_1\FINALPROYEKT_1\bin\Debug\net7.0\FINALPROYEKT_1.deps.json
+C:\Users\Quliy_cy96\source\repos\FINALPROYEKT_1\FINALPROYEKT_1\bin\Debug\net7.0\FINALPROYEKT_1.runtimeconfig.json
+C:\Users\Quliy_cy96\source\repos\FINALPROYEKT_1\FINALPROYEKT_1\bin\Debug\net7.0\FINALPROYEKT_1.dll
+C:\Users\Quliy_cy96\source\repos\FINALPROYEKT_1\FINALPROYEKT_1\bin\Debug\net7.0\FINALPROYEKT_1.pdb
+C:\Users\Quliy_cy96\source\repos\FINALPROYEKT_1\FINALPROYEKT_1\obj\Debug\net7.0\FINALPROYEKT_1.csproj.AssemblyReference.cache
+C:\Users\Quliy_cy96\source\repos\FINALPROYEKT_1\FINALPROYEKT_1\obj\Debug\net7.0\FINALPROYEKT_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quliy_cy96\source\repos\FINALPROYEKT_1\FINALPROYEKT_1\obj\Debug\net7.0\FINALPROYEKT_1.AssemblyInfoInputs.cache
+C:\Users\Quliy_cy96\source\repos\FINALPROYEKT_1\FINALPROYEKT_1\obj\Debug\net7.0\FINALPROYEKT_1.AssemblyInfo.cs
+C:\Users\Quliy_cy96\source\repos\FINALPROYEKT_1\FINALPROYEKT_1\obj\Debug\net7.0\FINALPROYEKT_1.csproj.CoreCompileInputs.cache
+C:\Users\Quliy_cy96\source\repos\FINALPROYEKT_1\FINALPROYEKT_1\obj\Debug\net7.0\FINALPROYEKT_1.dll
+C:\Users\Quliy_cy96\source\repos\FINALPROYEKT_1\FINALPROYEKT_1\obj\Debug\net7.0\refint\FINALPROYEKT_1.dll
+C:\Users\Quliy_cy96\source\repos\FINALPROYEKT_1\FINALPROYEKT_1\obj\Debug\net7.0\FINALPROYEKT_1.pdb
+C:\Users\Quliy_cy96\source\repos\FINALPROYEKT_1\FINALPROYEKT_1\obj\Debug\net7.0\FINALPROYEKT_1.genruntimeconfig.cache
+C:\Users\Quliy_cy96\source\repos\FINALPROYEKT_1\FINALPROYEKT_1\obj\Debug\net7.0\ref\FINALPROYEKT_1.dll

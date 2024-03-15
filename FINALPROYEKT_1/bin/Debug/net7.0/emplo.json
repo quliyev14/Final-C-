@@ -1,0 +1,46 @@
+[
+  {
+    "Id": 1,
+    "vacancias": [
+      {
+        "VacancieTitle": "Developer",
+        "Education": "Ali",
+        "salaryMin": "1200",
+        "salaryMax": "1500",
+        "StartDateTime": "2024-03-15T15:37:45.9083984+04:00",
+        "EndDateTime": "2024-04-15T15:37:45.9084259+04:00"
+      }
+    ],
+    "gmaileServices": {
+      "gmail": "elgun.q2003@gmail.com"
+    },
+    "Name": "Elgun",
+    "Surname": "Quliyev",
+    "Age": 21,
+    "City": "Baki",
+    "PhoneNumber": "192898912",
+    "Password": "2003"
+  },
+  {
+    "Id": 2,
+    "vacancias": [
+      {
+        "VacancieTitle": "Developer",
+        "Education": "Ali",
+        "salaryMin": "1200",
+        "salaryMax": "1500",
+        "StartDateTime": "2024-03-15T16:07:01.454727+04:00",
+        "EndDateTime": "2024-04-15T16:07:01.4547289+04:00"
+      }
+    ],
+    "gmaileServices": {
+      "gmail": "elgun.q2003@gmail.com"
+    },
+    "Name": "Mireli",
+    "Surname": "Ireli",
+    "Age": 11,
+    "City": "Baki",
+    "PhoneNumber": "21989017912",
+    "Password": "2003"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "Gender": "Male",
+    "WorkerCv": [
+      {
+        "Specilaty": "Developer",
+        "SchoolName": "Step",
+        "Universitycore": 350,
+        "Language": [
+          "English"
+        ],
+        "CompanieCount": [],
+        "languageLevel": 50,
+        "HonorsDiploma": true,
+        "GitLink": "elgun.com",
+        "Linkedln": "elgunlinkedln.com"
+      }
+    ],
+    "Name": "Elgun",
+    "Surname": "Quliyev",
+    "Age": 21,
+    "City": "Baki",
+    "PhoneNumber": "1898917892",
+    "Password": "2003"
+  }
+]
